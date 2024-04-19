@@ -20,7 +20,8 @@ I have added base cases for the game, if the player reaches 0 points, they canno
 
 The application will terminate if the player types "exit" in the console.
 
-Getting Started
+# Getting Started
+
 To run the application just type in the terminal python main.py
 
 # Author
