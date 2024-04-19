@@ -1,7 +1,7 @@
 # Poker-Game
 A single player 5 cards poker game.
 
-#Description
+# Description
 This application is built using python and one can play a poker game of 5 cards which will give a score based on the types of cards you get. Intially, the player will have 5 cards with them, after that it will give an option to either hold those cards or replace them. To replace the cards just type which card numbers you want to replace in the terminal Each round cost is 5 points which will be taken out of the total points Initially, the player will have 100 points to start with.
 
 Type of Cards	Second Header
