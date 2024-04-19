@@ -24,4 +24,4 @@ Getting Started
 To run the application just type in the terminal python main.py
 
 Author
-Preet Dabhi
+Ravishanker Gandigudi
