@@ -23,5 +23,6 @@ The application will terminate if the player types "exit" in the console.
 Getting Started
 To run the application just type in the terminal python main.py
 
-Author
+# Author
+
 Ravishanker Gandigudi
